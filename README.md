@@ -7,7 +7,7 @@ Also see [OpenXenium](https://github.com/Ryzee119/OpenXenium).
 
 ## PCB
 When fabricating your own, you can download the premade gerbers from the `Release` section or generate your own. Suggested PCB properties are:  <br>
-`2 layers, 35x210mm, 1.0mm thick, HASL, 1oz copper, no castellated holes, any colour you want!`<br>
+`2 layers, 35x20mm, 1.0mm thick, HASL, 1oz copper, no castellated holes, any colour you want!`<br>
 
 
 ## Bill of Materials
