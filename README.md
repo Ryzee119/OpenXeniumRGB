@@ -21,5 +21,3 @@ When fabricating your own, you can download the premade gerbers from the `Releas
 ![Schematic](https://raw.githubusercontent.com/Ryzee119/OpenXeniumRGB/master/images/schematic.png)  
 
 ![Top](https://raw.githubusercontent.com/Ryzee119/OpenXeniumRGB/master/images/ledboard_top.png)
-
-![Imgur](https://i.imgur.com/wdKGkB2.mp4)
